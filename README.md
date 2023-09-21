@@ -6,7 +6,7 @@ NLPBench is a novel benchmark for Natural Language Processing problems consistin
 ## Data
 Our example questions:
 ![Example Questions](assets/q_eg.png)
-You need to agree a license before requesting dataset, the download link will open soon.
+You need to agree a license before requesting the dataset, the download link will be opened soon.
 
 ## Evaluation
 Our evaluation are based on both online (GPT-3.5, GPT-4 and PaLM 2) and open sourced (LLAMA 2, Falcon, Bloom, etc.) LLMs.
