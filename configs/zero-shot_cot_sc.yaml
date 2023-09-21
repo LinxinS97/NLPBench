@@ -1,0 +1,7 @@
+max_tokens: 945
+seed: 41
+shot_type: 'zero-shot'
+prompt_r: 'cot'
+sys: false
+self_consistency: true
+self_reflection: false

@@ -1,0 +1,7 @@
+.vscode
+.cache
+res/
+nohup.out
+*/__pycache__
+logs/
+download.py
