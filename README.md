@@ -1,7 +1,7 @@
 # NLPBench: Evaluating NLP-Related Problem-solving Ability in Large Language Models
 
 
-NLPBench is a novel benchmark for Natural Language Processing problems consisting of 378 questions scourced from university final exam in Yale University. 
+NLPBench is a novel benchmark for Natural Language Processing problems consisting of 378 questions scourced from some universities' final exam. 
 
 ## Data
 Our example questions:
