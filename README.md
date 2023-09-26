@@ -8,6 +8,16 @@ Our example questions:
 ![Example Questions](assets/q_eg.png)
 You need to agree a license before requesting the dataset, the download link will be opened soon.
 
+## Environment Preparation
+You can import our environment from the `environment.yml` by
+```bash
+conda env create -f environment.yml
+```
+then, activate our conda environment by
+```bash
+conda activate NLPBench
+```
+
 ## Evaluation
 Our evaluation are based on both online (GPT-3.5, GPT-4 and PaLM 2) and open sourced (LLAMA 2, Falcon, Bloom, etc.) LLMs.
 
