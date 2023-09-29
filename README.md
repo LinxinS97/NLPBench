@@ -63,3 +63,15 @@ Then the result will be saved in `./res/{SEED}/`
 ## Prompt
 All the prompts in our evaluation can be found in `./prompts`, including prompt for question answering (`qa_prompt.py`), system prompt (`sys_prompt.py`), and prompt for tree-of-thought (`tot_prompt.py`). You can customize your prompt by modifying the above three files.
 
+## Citation
+If you think our repository and result is useful, please cite our paper by
+```
+@misc{song2023nlpbench,
+      title={NLPBench: Evaluating Large Language Models on Solving NLP Problems}, 
+      author={Linxin Song and Jieyu Zhang and Lechao Cheng and Pengyuan Zhou and Tianyi Zhou and Irene Li},
+      year={2023},
+      eprint={2309.15630},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
