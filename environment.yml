@@ -1,4 +1,4 @@
-name: llm
+name: NLPBench
 channels:
   - conda-forge
   - defaults
@@ -244,4 +244,3 @@ dependencies:
     - wrapt==1.15.0
     - xformers==0.0.22
     - yarl==1.9.2
-prefix: /home/elpis_ubuntu/anaconda3/envs/llm
