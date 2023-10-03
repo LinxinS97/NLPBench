@@ -6,7 +6,7 @@ NLPBench is a novel benchmark for Natural Language Processing problems consistin
 ## Data
 Our example questions:
 ![Example Questions](assets/q_eg.png)
-You need to agree a license before requesting the dataset, the download link will be opened soon.
+You can download our dataset through [this link](https://drive.google.com/drive/folders/1haGLwzdZ_fejN7s-nBpDlz8gZPowZSZN?usp=sharing). **Downloading our dataset means that you agree with the [CC BY-ND](https://creativecommons.org/licenses/by-nd/4.0/deed.en) license**.
 
 ## Environment Preparation
 You can import our environment from the `environment.yml` by
