@@ -1,5 +1,6 @@
 .vscode
 .cache
+.idea
 res/
 nohup.out
 */__pycache__

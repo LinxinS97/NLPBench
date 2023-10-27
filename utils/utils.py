@@ -2,7 +2,7 @@ import os
 import time
 
 import google.generativeai as palm
-from flaml import autogen
+import autogen
 from typing import List, Optional, Union
 from prompts import SYS_PROMPT_MAPPING, PROMPT_MAPPING, SHORTANS_ZS_COT_ST1
 
