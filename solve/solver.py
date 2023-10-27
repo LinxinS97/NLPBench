@@ -221,10 +221,6 @@ class Solver:
 
         json.dump(res, open(self.save_path, 'w'), indent=4)
 
-    def solve_ctx_tot(self):
-        # TODO: implement
-        pass
-
     def run(self):
         if self.ctx:
             self.solve_ctx()
